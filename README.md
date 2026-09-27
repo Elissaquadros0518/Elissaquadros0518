@@ -2,8 +2,6 @@
 <h3 align="center">🎓 B.Tech Computer Engineering Student 💻 Interested in Full Stack Development 🚀 Currently building projects and improving my problem-solving skills.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elissaquadros0518" alt="elissaquadros0518" /></a> </p>
-
 - 🔭 I’m currently working on [Bella-Vista](https://github.com/Elissaquadros0518/bella-vista)
 
 - 🌱 I’m currently learning **Mern,Data Structures & Algorithms**
